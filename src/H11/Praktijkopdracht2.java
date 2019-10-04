@@ -38,7 +38,7 @@ public class Praktijkopdracht2 extends Applet {
         public void actionPerformed(ActionEvent e) {
             nummer++;
             repaint();
-            
+
         }
     }
     }
