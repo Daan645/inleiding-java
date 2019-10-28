@@ -24,6 +24,7 @@ public class Boom extends Applet {
 
                 x += 80;
 
+
             }
 
 
