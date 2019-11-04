@@ -14,10 +14,10 @@ public class Boom extends Applet {
     public void paint(Graphics g) {
         int x = 50;
         int y = 100;
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < 3; i++) {
 
             x = 50;
-            y += 160;
+
             for (int j = 0; j < 5; j++) {
 
                 tekenstam(g, x, y, 25, 75);
@@ -26,7 +26,7 @@ public class Boom extends Applet {
 
 
             }
-
+            y += 200;
 
         }
 
